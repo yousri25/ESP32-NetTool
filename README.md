@@ -20,7 +20,7 @@ A simple and lightweight Wi-Fi scanning tool for the **ESP32** using **MicroPyth
 
 ---
 
-## Screenshots
+## Example
 
 ##########################
 WIFI: MyHomeWiFi | MAC: aa:bb:cc:dd:ee:ff | Channel: 6 | Signal (dBm): -55 | Security: WPA2-PSK | Hidden: 0
