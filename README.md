@@ -22,7 +22,7 @@ Scan nearby Wi-Fi networks or start an **Access Point**, selectable at runtime.
 
 ## Example Output
 
-WIFI: MyWiFi | MAC: aa:bb:cc:dd:ee:ff | Ch: 6 | RSSI: -55 | Sec: WPA2-PSK | Hidden: 0  
+WIFI: MyWiFi | MAC: aa:bb:cc:dd:ee:ff | Ch: 6 | RSSI: -55 | Sec: WPA2-PSK | Hidden: False  
 ------------------------------------------------------------
 
 ---
