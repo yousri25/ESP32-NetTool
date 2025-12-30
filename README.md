@@ -53,6 +53,8 @@ ap.config(
     password="12345678",   # optional (8–63 chars)
     authmode=network.AUTH_WPA2_PSK
 )
+```
+
 Notes
 
 AP mode = local network only (no internet)
